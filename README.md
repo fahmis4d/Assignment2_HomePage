@@ -1,2 +1,2 @@
-Kelompok 2
+Kelompok 2/n
 http://127.0.0.1:5500/index.html
